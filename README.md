@@ -1,0 +1,2 @@
+# Random File Selector
+This is a .NET Shell extension (DLL) utilizing [SharpShell](https://github.com/dwmkerr/sharpshell). An option named "Select a Random File" will be added to the Context menu (right-click menu), which will randomly select a file within the current and subdirectories if any, open a new explorer window if not opened already, and focus on the selected file.
